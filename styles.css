@@ -1,0 +1,36 @@
+img {
+    border: solid 2px grey;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.container {
+    border: solid 2px goldenrod;
+    border-radius: 15px;
+    display: flex;
+    background-color: aliceblue;
+
+}
+
+button {
+    border: solid 2px rgb(21, 32, 3);
+    background-color: rgb(185, 218, 207);
+    color: rgb(250, 215, 18);
+    margin: 15px;
+}
+
+.item3 {
+    position: absolute;
+    right: 20px;
+}
+
+.item2 {
+    position: absolute;
+    right: 50%;
+}
+
+div {
+    display: flex;
+    margin: 10px;
+}
